@@ -1,0 +1,9 @@
+site_name: Jin Lee Biography
+
+theme:
+    name: 'material'
+
+nav:
+    - index.md
+    - tutorials.md
+    - reference.md
