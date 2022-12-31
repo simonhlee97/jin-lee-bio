@@ -22,13 +22,13 @@ Quarter 4 = Oct, Nov, Dec
 }
 ```
 
+|Quarter | # of players | Percentage of Roster|
+|-----|---- | -------|
+|Q1   | 5   | 40%     |
+|Q2   | 4   | 30%     |
+|Q3   | 3   | 20%     |
+|Q4   | 2   | 10%     |
 
 Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/teams/IND/2023.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#roster">View Original Table</a><br>Generated 12/30/2022.
 
-|Total Count | Percentage of Roster|
-|-----|----------|
-|Q1   |40%       |
-|Q2   |30%     |
-|Q3   |20%     |
-|Q4   |10%     |
 

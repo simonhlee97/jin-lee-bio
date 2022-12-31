@@ -1,3 +1,5 @@
 # About this project
 
-I'm a big fan of Malcolm Gladwell's Outliers. He recently did a podcast titled "Revisiting Outliers" where he discussed **relative age effect** with students at University of Pennsylvania.
+I'm a big fan of Malcolm Gladwell's *"Outliers"*. He recently did a podcast titled "Outliers, Revisited" where he discussed **relative age effect** with students at UPenn. I looked up some professional baseball and basketball teams and made some charts to see how the rosters were distributed across birth-months, to see if the distribution was similar to the 40-30-20-10 phenomenon Gladwell discussed with Canadian psychologist [Roger Barnsley](https://scholar.google.ca/citations?user=Ex-lR0YAAAAJ&hl=en) (the OG of "relative age effect" research).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VedGIR9v9G8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

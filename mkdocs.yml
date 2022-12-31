@@ -17,10 +17,11 @@ markdown_extensions:
                 format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
 
 theme:
-    name: 'material'
+    name: 'readthedocs'
 
 nav:
-    - index.md
-    - pacers.md
-    - cubs.md
-    - redsox.md
+    - Home: index.md
+    - Indiana Pacers: pacers.md
+    - Chicago Cubs: cubs.md
+    - Boston Red Sox: redsox.md
+    - Chicago Bulls: bulls.md
