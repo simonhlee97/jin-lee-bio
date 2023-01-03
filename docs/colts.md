@@ -20,6 +20,6 @@
 |Q3   | 21   | 33.9%     |
 |Q4   | 10   | 16.1%     |
 
-note: August 1st is the most common cutoff date for youth football
+note: *August 1st* is the most common cutoff date for youth football
 
 Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/teams/clt/2022_roster.htm?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#roster">View Original Table</a><br>Generated 1/1/2023.

@@ -20,6 +20,6 @@
 |Q3   | 12   | 30%     |
 |Q4   | 11   | 27.5%     |
 
-note: *August 31st* is the most common cutoff date for youth football
+note: *August 31st* is the most common cutoff date for youth baseball
 
 Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Baseball-Reference.com</a>: <a href="https://www.baseball-reference.com/teams/CHC/2022-roster.shtml?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#the40man">View Original Table</a><br>Generated 1/3/2023.
